@@ -9,3 +9,5 @@ Also got to try to use bun instead of npm for bundling it.
 ```bun install```
 
 ```bun dev```
+
+[link to github pages](https://erik-johansson-barlund.github.io/Game-of-life-React/)
