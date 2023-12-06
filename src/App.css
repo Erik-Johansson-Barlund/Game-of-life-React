@@ -1,0 +1,13 @@
+#root {
+  margin: 0 auto;
+  padding: 0rem;
+  text-align: center;
+}
+
+.game_grid {
+  width: 99.9vw;
+  height: 95vh;
+  display: grid;
+  gap: 1px;
+  background-color: rgb(105, 104, 104);
+}
